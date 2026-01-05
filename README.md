@@ -42,7 +42,7 @@ Ten kalkulator jest napakowany technologią jutra, dostępną już dziś (chyba 
 
 | Widok Główny | Zaawansowane Obliczenia |
 |:---:|:---:|
-| <img src="https://via.placeholder.com/400x300.png?text=Tu+będzie+kalkulator" alt="Screenshot 1" width="400"> | <img src="https://via.placeholder.com/400x300.png?text=2+%2B+2+%3D+4+(Wow!)" alt="Screenshot 2" width="400"> |
+| <img src="./public/kalkulator.png" alt="Screenshot 1" width="400"> | <img src="./public/geniusz.png" alt="Screenshot 2" width="400"> |
 | *Elegancja. Prostota. Brak styli CSS.* | *Uchwycony moment geniuszu: wynik dodawania.* |
 
 ## 🛠️ Technologiczny Stack (Brzmi mądrze)
