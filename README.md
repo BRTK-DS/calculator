@@ -36,14 +36,14 @@ Ten kalkulator jest napakowany technologią jutra, dostępną już dziś (chyba 
 * ✖️ **Eksperymentalne Mnożenie**: Dla tych, którzy lubią, gdy liczby szybko rosną.
 * ➗ **Ryzykowne Dzielenie**: Zawiera zaawansowany system wykrywania dzielenia przez zero (program się crashuje, a przeglądarka zamraża – to tzw. "ficzer").
 * 🎨 **Ultra-Minimalistyczny UI**: Zaprojektowany przez kogoś, kto przeczytał jeden artykuł o UX na Medium i uznał, że "mniej znaczy więcej" (bo nie umiał wycentrować `div`a).
-* 🌙 **Dark Mode (Wkrótce™)**: Aktualnie "dark mode" polega na tym, że zamykasz oczy.
+* 🌙 **Light Mode (Wkrótce™)**: Aktualnie "light mode" polega na tym, że wychodzisz z domu.
 
 ## 🖼️ Screenshoty (Dowód, że to istnieje)
 
 | Widok Główny | Zaawansowane Obliczenia |
 |:---:|:---:|
 | <img src="./public/kalkulator.png" alt="Screenshot 1" width="400"> | <img src="./public/geniusz.png" alt="Screenshot 2" width="400"> |
-| *Elegancja. Prostota. Brak styli CSS.* | *Uchwycony moment geniuszu: wynik dodawania.* |
+| *Elegancja. Prostota. Losowe style CSS.* | *Uchwycony moment geniuszu: wynik dodawania.* |
 
 ## 🛠️ Technologiczny Stack (Brzmi mądrze)
 
